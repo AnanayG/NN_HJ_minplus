@@ -1,4 +1,5 @@
 Code base for Project for course MAE202A - Optimal Control.
+(The code was provided as part of the original paper by the authors. I have cloned their repo and made changes on top of what was provided.)
 
 Paper Link - https://doi.org/10.1007/s00498-022-00333-2
 
