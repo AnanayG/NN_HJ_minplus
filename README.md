@@ -1,3 +1,7 @@
+Code base for Project for course MAE202A - Optimal Control.
+
+Paper Link - https://doi.org/10.1007/s00498-022-00333-2
+
 These are the codes for our paper "Neural network architectures using min-plus algebra for solving certain high dimensional optimal control problems and Hamilton-Jacobi PDEs" by Jerome Darbon, Peter M. Dower, and Tingwei Meng. 
 
 There are four files corresponding to the four experimental results. See the filenames and the first line comment in each file.
