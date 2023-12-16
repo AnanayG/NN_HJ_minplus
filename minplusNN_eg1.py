@@ -263,7 +263,8 @@ print('Time: ', end - start)
 if plotSflag:
     if n>1:
         plt.figure()
-        a = plt.contourf(xv, yv, np.reshape(S_resnet_val, (nx, ny)), 20)
+        mycmap = plt.get_cmap('YlOrRd')
+        a = plt.contourf(xv, yv, np.reshape(S_resnet_val, (nx, ny)), 20, cmap=mycmap)
         plt.colorbar(a)
         plt.savefig(filenameS)
     else:
